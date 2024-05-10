@@ -21,6 +21,6 @@ nr1 create
 
 > Example: `nr1 create --type nerdlet --name my-nerdlet`.
 
+# Screenshot
 
-# Screenshot 
 ![Alt text](/Screenshots/s1.png?raw=true "screenshot")
