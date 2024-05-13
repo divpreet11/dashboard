@@ -23,4 +23,4 @@ nr1 create
 
 # Screenshot
 
-![Alt text](close-activity/Screenshots/s1.png?raw=true "screenshot")
+![Alt text](./close-activity/Screenshots/s1.png?raw=true "screenshot")
